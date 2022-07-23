@@ -1,0 +1,14 @@
+.container {
+  height: 200px;
+  width: 600px;
+  background-color: rosybrown;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0 auto;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

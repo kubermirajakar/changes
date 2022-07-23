@@ -1,0 +1,19 @@
+.container {
+  top: 200px;
+  height: 200px;
+  width: 400px;
+  background-color: rgb(170, 208, 223);
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  z-index: 10;
+  position: absolute;
+  border-radius: 20px;
+}
+.btn {
+  position: absolute;
+  display: flex;
+  right: 50px;
+  bottom: 25px;
+}

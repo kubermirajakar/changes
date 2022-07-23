@@ -1,0 +1,14 @@
+.container {
+  justify-content: center;
+  align-self: center;
+  margin-top: 20px;
+  width: 600px;
+  height: auto;
+  background-color: rgb(212, 119, 25);
+  margin: 20px auto;
+}
+.data {
+  display: flex;
+  justify-content: center;
+  border: 2px solid green;
+}

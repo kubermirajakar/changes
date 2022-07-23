@@ -1,0 +1,15 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-self: auto;
+  margin-top: -10px;
+}
+.btn__btn {
+  display: inline-block;
+  color: white;
+  background-color: black;
+  font: bold;
+  font-weight: bolder;
+  border-radius: 20px;
+  padding: 5px 20px;
+}
